@@ -1,0 +1,7 @@
+mss>=9.0.1
+pytesseract>=0.3.10
+Pillow>=10.0.0
+keyboard>=0.13.5
+deep-translator>=1.11.4
+pyperclip>=1.8.2
+numpy>=1.24.0
